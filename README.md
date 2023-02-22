@@ -1,21 +1,24 @@
-# MSI-MAG-B660M-MORTAR-DDR4-12600K-EFI
-微星B660m迫击炮D4版（不带wifi） + 12600K EFI。
+# MSI-PRO-B660M-G-DDR4-12400F-EFI
 
-## 配置
+## Config
 
-| 配置 | 型号 |
+| Config | Brand |
 | --- | --- |
-| CPU | [Intel i5 12600K](https://ark.intel.com/content/www/cn/zh/ark/products/134589/intel-core-i512600k-processor-20m-cache-up-to-4-90-ghz.html) |
-| 主板 | [微星MAG B660M MORTAR DDR4](https://cn.msi.com/Motherboard/MAG-B660M-MORTAR-DDR4) |
-| 显卡 | [华硕AREZ-RX560-O2G-EVO](https://www.asus.com/motherboards-components/graphics-cards/arez/arez-rx560-o2g-evo/) |
-| 内存 | 宇瞻黑豹DDR4 3600 8Gx2 |
-| 网卡 | BCM94360CD 4 天线 |
-| 硬盘 | [Samsung SSD 970 EVO Plus 500GB](https://www.samsungeshop.com.cn/product/MZ-V7S/MZ-V7S250BW) |
+| CPU | [Intel i5 12400F](https://ark.intel.com/content/www/us/en/ark/products/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz.html) |
+| Motherboard | [MSI PRO B660M-G DDR4](https://www.msi.com/Motherboard/PRO-B660M-G-DDR4) |
+| Graphics | [SAPPHIRE RX6600](https://www.sapphiretech.com/en/consumer/pulse-radeon-rx-6600-8g-gddr6) |
+| Memory | [ADATA D50 DDR4 3200 16Gx2](https://www.adata.com/th/xpg/653) |
+| Wireless network | BCM94360CD 4 Wireless |
+| HardDisk | [WD SN770 500GB](https://www.westerndigital.com/products/internal-drives/wd-black-sn770-nvme-ssd#WDS500G3X0E) |
 | OC版本 | 0.8.5 |
-| macOS | macOS Ventura 13.0 (22A380) |
+| macOS | macOS Ventura 13.2 (22A380) |
 | 机型 | MacPro7,1 |
 
 ## 更新记录
+
+### 2023-2-22
+
+- Update to MSI-PRO-B660M-G Intel i5-12400F RX6600
 
 ### 2022-12-12
 
